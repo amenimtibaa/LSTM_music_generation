@@ -12,5 +12,6 @@ These instructions will get you a copy of the project up and running:
 the goal was to see what would be a mix of great musicians composition. 
 * Put the notes files in your drive ( or use the one you cloned ) .
 * Open **LSTM_music_generation.ipynb** on then click on *open on colab* you will be transferred to Colaboratory which is a Jupyter notebook environment that requires no configuration and runs entirely in the cloud.
-* Once on colab go to Exécution => modify the execution type
+* Once on colab go to Execution => modify the execution type
 * Set type of execution to Python3 and hardware accelerator to TPU ( to make the most of resources provided by colab ) 
+* Go to execution => execute everything
